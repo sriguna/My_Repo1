@@ -1,6 +1,6 @@
  body {
        border: 1px solid grey ;
-	margin: 1%;
+	margin: 0%;
 	padding: 0%;
       }
 	
@@ -8,8 +8,7 @@
 	background-color: lightgrey;
 	color: blue;
 	padding: 0.2%;
-	font-size: 14pt;
-	border: 1px solid grey ;
+	font-size: 12px;
       }
 		
       h3{
@@ -34,3 +33,7 @@ select,label {
 	padding: 0.2%;
 }
 	
+form {
+	border: 1px solid grey;
+	margin: 1%;
+}
