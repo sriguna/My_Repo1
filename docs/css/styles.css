@@ -20,6 +20,7 @@
 	input {
 		width: 100%; 
 		aling-text: left;
+		position: relative;
 	  }
 	  
 .dropdown {
@@ -27,9 +28,14 @@
 	margin-left: 90%;
 }
 
-select,label {
+select {
 	margin: 0.5%;
 	padding: 0.2%;
+	position: relative;
+}
+
+label{
+	margin: 1%;
 }
 	
 form {
