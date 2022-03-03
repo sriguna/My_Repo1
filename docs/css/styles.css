@@ -1,26 +1,33 @@
  body {
        border: 1px solid black ;
-	margin: 5%;
-	padding: 2%;
+	margin: 1%;
+	padding: 1%;
       }
 	
       div {
 	background-color: lightgrey;
 	colr: white;
+	padding: 1%;
       }
 		
       h3{
         color: white;
         background-color: lightblue;
 	text-align: left;
+	padding: 1%;
       }
 	  
 	input {
 		width: 100%; 
+		padding: 0.5%;
 	  }
 	  
 .dropdown {
 	display: flex;
 	margin-left: 80%;
+}
+
+select,label {
+	margin: 1%;	
 }
 	
