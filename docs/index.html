@@ -6,30 +6,39 @@
       body {
        border: 1px solid black ;
       }
-
+	
+      div {
+	background-color: grey;
+	colr: white;
+      }
+		
       h3{
         color: white;
         background-color: lightblue;
 	      text-align: left;
       }
+	  
+	input {
+		width: 100%; 
+	  }
 
 		</style>
 </head>
 <body>
-<h3>
+<div>
   Banner
-  <span > 
-    <select>
+  <span> 
+    <select style="align-items: left;">
       <option> Production </option>
       <option> Test </option>
     </select>
    </span>
-</h3>
+</div>
 <select>
       <option> Production </option>
       <option> Test </option>
  </select>  
-  
+  <br>
   <select>
       <option> choose one </option>
       <option> Production </option>
@@ -38,7 +47,7 @@
   
   <form>
     <h3>Existing</h3>
-      <label>Existing value</label>
+      <label>Existing value</label> <br>
       <input type="text" />
    </form>
  </body>
