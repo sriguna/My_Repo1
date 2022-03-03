@@ -8,7 +8,7 @@
 	background-color: lightgrey;
 	color: #24a0ed;
 	padding: 0.2%;
-        font-size: 11px;
+        font-size: 24px;
       }
 		
       h3{
@@ -16,18 +16,16 @@
         background-color: #24a0ed;
 	text-align: left;
 	padding: 1%;
-        margin-top: 0%;
       }
 	  
 	input {
 		width: 100%; 
-		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
 	  
 .dropdown {
-	display: flex;
+	display: block;
 	margin-left: 80%;
 }
 
@@ -38,11 +36,9 @@ select {
 }
 
 label{
-	margin: 1%;
 	padding: 1%;
 }
 	
 form {
 	border: 1px solid grey;
-	padding: 1%;
 }
