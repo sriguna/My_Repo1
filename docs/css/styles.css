@@ -19,14 +19,14 @@
       }
 	  
 	textarea {
-		width: 90%; 
+		width: 80%; 
 		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
 	  
 .dropdown {
-	margin-left: 90%;
+	margin-left: 85%;
 }
 
 select {
@@ -41,7 +41,7 @@ select {
 }
 
 form {
-	border: 1px solid grey;
+	border-bottom: 1px solid grey;
 	position: relative;
 	margin: 0%;
 	padding: 0%;
