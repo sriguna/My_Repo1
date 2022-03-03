@@ -1,13 +1,15 @@
  body {
-       border: 1px solid black ;
+       border: 1px solid grey ;
 	margin: 1%;
-	padding: 1%;
+	padding: 0%;
       }
 	
       div {
 	background-color: lightgrey;
-	colr: white;
-	padding: 1%;
+	color: blue;
+	padding: 0.2%;
+	font-size: 14pt;
+	border: 1px solid grey ;
       }
 		
       h3{
@@ -24,10 +26,11 @@
 	  
 .dropdown {
 	display: flex;
-	margin-left: 80%;
+	margin-left: 100%;
 }
 
 select,label {
-	margin: 1%;	
+	margin: 0.5%;
+	padding: 0.2%;
 }
 	
