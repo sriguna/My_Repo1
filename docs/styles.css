@@ -1,3 +1,21 @@
-body {border: '1px solid black'; margin: 0pt;}
-
-h3 {background-color: 'blue'; color: 'white';}
+ body {
+       border: 1px solid black ;
+	margin: 5%;
+	padding: 2%;
+      }
+	
+      div {
+	background-color: lightgrey;
+	colr: white;
+      }
+		
+      h3{
+        color: white;
+        background-color: lightblue;
+	text-align: left;
+      }
+	  
+	input {
+		width: 100%; 
+	  }
+	  
