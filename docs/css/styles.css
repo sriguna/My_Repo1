@@ -6,26 +6,29 @@
 	
       div {
 	background-color: lightgrey;
-	color: blue;
+	color: #24a0ed;
 	padding: 0.2%;
+        font-size: 11px;
       }
 		
       h3{
         color: white;
-        background-color: lightblue;
+        background-color: #24a0ed;
 	text-align: left;
 	padding: 1%;
+        margin-top: 0%;
       }
 	  
 	input {
 		width: 100%; 
+		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
 	  
 .dropdown {
 	display: flex;
-	margin-left: 90%;
+	margin-left: 80%;
 }
 
 select {
@@ -36,10 +39,10 @@ select {
 
 label{
 	margin: 1%;
+	padding: 1%;
 }
 	
 form {
 	border: 1px solid grey;
-	margin: 1%;
-	margin-top: 0%;
+	padding: 1%;
 }
