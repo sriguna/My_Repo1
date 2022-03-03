@@ -1,7 +1,6 @@
  body {
-       border: 1px solid grey ;
 	margin: 0%;
-	padding: 0.5%;
+	padding: 0%;
       }
 	
       h3 {
@@ -16,24 +15,31 @@
 	text-align: left;
 	padding: 1%;
 	height: 10%;
+	margin-tope: 0%
       }
 	  
 	textarea {
-		width: 80%; 
+		width: 100%; 
 		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
 	  
 .dropdown {
-	margin-left: 80%;
+	margin-left: 100%;
 }
 
 select {
 	padding: 0.2%;
 	position: relative;
 }
-	
+
+.options {
+	padding: 0.2%;
+	margin: 0.5%;
+	position: relative;
+}
+
 form {
 	border: 1px solid grey;
 	position: relative;
