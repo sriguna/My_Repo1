@@ -8,7 +8,6 @@
 	background-color: lightgrey;
 	color: blue;
 	padding: 0.2%;
-	font-size: 12px;
       }
 		
       h3{
@@ -20,12 +19,12 @@
 	  
 	input {
 		width: 100%; 
-		padding: 0.5%;
+		aling-text: left;
 	  }
 	  
 .dropdown {
 	display: flex;
-	margin-left: 100%;
+	margin-left: 90%;
 }
 
 select,label {
@@ -36,4 +35,5 @@ select,label {
 form {
 	border: 1px solid grey;
 	margin: 1%;
+	margin-top: 0%;
 }
