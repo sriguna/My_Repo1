@@ -19,3 +19,8 @@
 		width: 100%; 
 	  }
 	  
+.dropdown {
+	display: flex;
+	margin-left: 80%;
+}
+	
