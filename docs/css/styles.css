@@ -4,24 +4,23 @@
 	padding: 0%;
       }
 	
-      div {
+      h3 {
 	background-color: lightgrey;
 	color: #24a0ed;
-	padding: 0.2%;
+	padding: 0.5%;
       }
 		
       h4{
         color: white;
         background-color: #24a0ed;
 	text-align: left;
-	padding: 1%;
       }
 	  
-/* 	input {
+	textarea {
 		width: 100%; 
 		aling-text: left;
 		position: relative;
-	  } */
+	  }
 	  
 .dropdown {
 	display: block;
