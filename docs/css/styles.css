@@ -1,7 +1,7 @@
  body {
        border: 1px solid grey ;
 	margin: 0%;
-	padding: 0%;
+	padding: 0.5%;
       }
 	
       h3 {
@@ -30,7 +30,6 @@
 }
 
 select {
-	margin: 0.5%;
 	padding: 0.2%;
 	position: relative;
 }
