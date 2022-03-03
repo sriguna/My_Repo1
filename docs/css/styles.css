@@ -26,7 +26,7 @@
 	  }
 	  
 .dropdown {
-	margin-left: 85%;
+	margin-left: 80%;
 }
 
 select {
@@ -40,9 +40,4 @@ select {
 	position: relative;
 }
 
-form {
-	border-bottom: 1px solid grey;
-	position: relative;
-	margin: 0%;
-	padding: 0%;
-}
+
