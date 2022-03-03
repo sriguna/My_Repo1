@@ -14,10 +14,12 @@
         color: white;
         background-color: #24a0ed;
 	text-align: left;
+	padding: 1%;
       }
 	  
 	textarea {
-		width: 100%; 
+		width: 90%; 
+		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
@@ -34,9 +36,11 @@ select {
 }
 
 label{
-	padding: 1%;
+	margin: 1%;
 }
 	
 form {
 	border: 1px solid grey;
+	padding-top: 0%;
+	position: relative;
 }
