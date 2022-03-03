@@ -15,17 +15,17 @@
         background-color: #24a0ed;
 	text-align: left;
 	padding: 1%;
+	height: 10%;
       }
 	  
 	textarea {
-		width: 90%; 
+		width: 80%; 
 		margin: 1%;
 		aling-text: left;
 		position: relative;
 	  }
 	  
 .dropdown {
-	display: block;
 	margin-left: 80%;
 }
 
@@ -34,13 +34,8 @@ select {
 	padding: 0.2%;
 	position: relative;
 }
-
-label{
-	margin: 1%;
-}
 	
 form {
 	border: 1px solid grey;
-	padding-top: 0%;
 	position: relative;
 }
